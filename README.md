@@ -4,7 +4,7 @@ Test the pipeline
 
 ## Testing pipeline 
 ```
-jenkins pls 3
+jenkins
 ```
 
 test again
